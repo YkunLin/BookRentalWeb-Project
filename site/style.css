@@ -1,0 +1,26 @@
+
+
+input{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.button{
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    
+}
+.logout-form {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
