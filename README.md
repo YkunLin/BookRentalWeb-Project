@@ -1,4 +1,4 @@
-# myProject
+# BookRental website
 This is the login page. Users who have already registered can enter their username and password to log in.
 ![Login page](https://github.com/YkunLin/myProject/assets/152030774/2ec1439d-e057-4743-8411-f667fb7a54d2)
 This is the Register page where new users can enter their username and password to register.
